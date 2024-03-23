@@ -1,0 +1,20 @@
+[
+  {
+    "album_title": "Unplugged",
+    "artist": "Arjith Singh",
+    "songs": ["Tum Hi Ho", "Phir Le Aaya Dil", "Raabta", "Laal Ishq", "Duaa"],
+    "year_released": "2013"
+  },
+  {
+    "album_title": "The Dark Side of the Moon",
+    "artist": "Pink Floyd",
+    "songs": ["Speak to Me", "Breathe (In the Air)", "On the Run", "Time", "The Great Gig in the Sky"],
+    "year_released": "1973"
+  },
+  {
+    "album_title": "Nick Jonas X2",
+    "artist": "Nick Jonas",
+    "songs": ["Chains", "Jealous", "Teacher", "Wilderness", "Numb (featuring Angel Haze)"],
+    "year_released": "2014"
+  }
+]
